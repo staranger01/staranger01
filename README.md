@@ -3,7 +3,7 @@
 
 ## I'm an Aspiring Data Analyst and Web Developer!
 
-- 🔭 I just graduated college from Georgia Gwinnett College with a Bachelor's of Science in Information Technology.
+
 - 🌱 I’m currently learning Javascript and reviewing Data Analyst concepts.
 - 🥅 2021 Goals: Finish Data Analyst Portfolio
 - ⚡ Fun fact: I love kpop.
