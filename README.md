@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning Javascript and reviewing Data Analyst concepts.
 - 🥅 2022 Goals: Finish Data Analyst Portfolio
-- ⚡ Fun fact: I love kpop.
+- ⚡ Fun fact: I have been to 40+ hackathons.
 
 
 
