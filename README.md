@@ -5,7 +5,7 @@
 
 
 - 🌱 I’m currently learning Javascript and reviewing Data Analyst concepts.
-- 🥅 2021 Goals: Finish Data Analyst Portfolio
+- 🥅 2022 Goals: Finish Data Analyst Portfolio
 - ⚡ Fun fact: I love kpop.
 
 
