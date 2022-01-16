@@ -1,8 +1,7 @@
 ### Hi there! 👋
 
 
-## I'm an Aspiring Data Analyst and Web Developer!
-
+## I'm an Aspiring Data Analyst.
 
 - 🌱 I’m currently learning Javascript and reviewing Data Analyst concepts.
 - 🥅 2022 Goals: Finish Data Analyst Portfolio
