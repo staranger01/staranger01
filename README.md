@@ -1,9 +1,9 @@
 ### Hi there! 👋
 
 
-## I'm an Aspiring Data Analyst.
+## I <3 Tech
 
-- 🌱 I’m currently learning Javascript and reviewing Data Analyst concepts.
+- 🌱 I’m currently learning Javascript.
 - 🥅 2022 Goals: Finish Data Analyst Portfolio
 - ⚡ Fun fact: I have been to 40+ hackathons.
 
