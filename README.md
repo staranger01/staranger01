@@ -4,7 +4,6 @@
 ## I <3 Tech
 
 - 🌱 I’m currently learning Javascript.
-- 🥅 2022 Goals: Finish Data Analyst Portfolio
 - ⚡ Fun fact: I have been to 40+ hackathons.
 
 
